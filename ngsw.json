@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1738340352837,
+  "timestamp": 1744993322378,
   "index": "/przystanki/index.html",
   "assetGroups": [
     {
@@ -55,7 +55,7 @@
     "/przystanki/icons/icon-512x512.png": "63856bfd7765175d87c94f1427885b3b854a7fe5",
     "/przystanki/icons/icon-72x72.png": "d8a6a9c58d876ee5408e23ac72353ca0b8ddf68e",
     "/przystanki/icons/icon-96x96.png": "a2cade125045d34d6f287c941904b625f4afe70c",
-    "/przystanki/index.html": "b2fd5efb04d4ce9213a54a59da77cebeb4e36057",
+    "/przystanki/index.html": "aea2bdb8a7ad55c2b572324c343eac2ebb53fbba",
     "/przystanki/main-JBGJW4AJ.js": "642fe8869234449b5208baa99c70cd8e9c1496b4",
     "/przystanki/manifest.webmanifest": "fdcee01b6c2e1d32e295934020d2fa497b8dd65d",
     "/przystanki/polyfills-FFHMD2TL.js": "f49b49a155bc7d192db62a4c15d0a612b460a667",
